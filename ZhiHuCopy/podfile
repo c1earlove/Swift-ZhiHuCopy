@@ -1,0 +1,12 @@
+target 'ZhiHuCopy' do
+use_frameworks!
+platform:ios, '8.0'
+pod 'Moya/RxSwift'
+pod 'Kingfisher'
+pod 'HandyJSON'
+pod 'RxDataSources'
+pod 'Then'
+pod 'SnapKit'
+pod 'SwiftDate'
+pod 'ObjectMapper'
+end
